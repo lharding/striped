@@ -1,0 +1,13 @@
+{
+  "name": "striped",
+  "version": "0.0.0",
+  "main": "striped.js",
+  "scripts": {},
+  "author": "Leander Harding",
+  "description": "striped",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "stripe": "^4.1.0"
+  }
+}
