@@ -1,5 +1,4 @@
 var express = require('express');
-var https = require('https');
 var http = require('http');
 
 // Set your secret key: remember to change this to your live secret key in production
